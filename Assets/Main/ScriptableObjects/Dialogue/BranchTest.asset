@@ -10,8 +10,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9e03178d306acd94ea0393e430e09db1, type: 3}
-  m_Name: BranchText
+  m_Name: BranchTest
   m_EditorClassIdentifier: 
-  dialogueID: 
-  DialogueLines: []
-  ResponseOption: []
+  dialogueID: Start
+  DialogueLines:
+  - Hello!
+  - How are you today?
+  ResponseOption:
+  - text: I'm doing good.
+    nextBranch: {fileID: 11400000, guid: 78e24456a716b0c4da08d1ff25697dd7, type: 2}
+  - text: I'm just ok.
+    nextBranch: {fileID: 11400000, guid: 43d4d691b0db22c48a73322146b217bc, type: 2}
+  - text: I'm not doing well today.
+    nextBranch: {fileID: 11400000, guid: 2b18dd460660e564989220268ddfe6f7, type: 2}

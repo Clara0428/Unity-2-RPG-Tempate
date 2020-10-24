@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9e03178d306acd94ea0393e430e09db1, type: 3}
   m_Name: Branch
   m_EditorClassIdentifier: 
-  dialogueID: 
-  DialogueLines: []
+  dialogueID: 1st Response
+  DialogueLines:
+  - Me too
   ResponseOption: []
