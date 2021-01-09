@@ -9,12 +9,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3fee222ac8d2d431c86aa5bcf29705be, type: 3}
-  m_Name: Dirt
+  m_Script: {fileID: 11500000, guid: f3424415f59c29d4db7e74d7ad6b08b6, type: 3}
+  m_Name: Eggplant
   m_EditorClassIdentifier: 
-  itemName: Dirt
-  price: 1
+  itemName: eggplant
+  price: 100
   itemType: 0
-  sprite: {fileID: 21300000, guid: d9333f218377dda4ba9650ec8f76c40d, type: 3}
-  color: {r: 0.6132076, g: 0.3499911, b: 0.3499911, a: 1}
-  rarity: 288
+  sprite: {fileID: 21300000, guid: b2e7ab64fd7eb364ab7451d09f294367, type: 3}
+  color: {r: 0.97161466, g: 1, b: 0.18396229, a: 1}
+  rarity: 10

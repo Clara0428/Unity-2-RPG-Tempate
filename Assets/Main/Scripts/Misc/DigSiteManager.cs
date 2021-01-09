@@ -65,7 +65,7 @@ public class DigSiteManager : MonoBehaviour
         }
         else
         {
-            popupText.GetComponent<TextMeshProUGUI>().text = "Press [Q] to mine.";
+            popupText.GetComponent<TextMeshProUGUI>().text = "Press [Q] to harvest.";
         }
     }
 

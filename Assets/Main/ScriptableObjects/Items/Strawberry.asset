@@ -9,12 +9,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3fee222ac8d2d431c86aa5bcf29705be, type: 3}
-  m_Name: Stones
+  m_Script: {fileID: 11500000, guid: 49c6c36ad9792774690d523cc451db9c, type: 3}
+  m_Name: Strawberry
   m_EditorClassIdentifier: 
-  itemName: Stone
-  price: 5
-  itemType: 3
-  sprite: {fileID: 21300000, guid: cb4ab5a5300dcf24eaf0658a4c7dff9f, type: 3}
-  color: {r: 0.5754717, g: 0.5754717, b: 0.5754717, a: 1}
-  rarity: 166
+  itemName: strawberry
+  price: 200
+  itemType: 2
+  sprite: {fileID: 21300000, guid: 63bd50a6c3fd26b439c10e599e94b853, type: 3}
+  color: {r: 1, g: 1, b: 1, a: 1}
+  rarity: 23

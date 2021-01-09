@@ -9,12 +9,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8c2819f12862b4ed282dc545792e36da, type: 3}
-  m_Name: Vase
+  m_Script: {fileID: 11500000, guid: 3fee222ac8d2d431c86aa5bcf29705be, type: 3}
+  m_Name: Wheat
   m_EditorClassIdentifier: 
-  itemName: Vase
-  price: 20
-  itemType: 1
-  sprite: {fileID: 21300152, guid: e48ddf4fb7304ce4ab48711eb6617a57, type: 3}
-  color: {r: 1, g: 1, b: 1, a: 1}
-  rarity: 55
+  itemName: wheat
+  price: 1
+  itemType: 0
+  sprite: {fileID: 21300000, guid: d9333f218377dda4ba9650ec8f76c40d, type: 3}
+  color: {r: 0.6132076, g: 0.3499911, b: 0.3499911, a: 1}
+  rarity: 28
